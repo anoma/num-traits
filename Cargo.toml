@@ -1,14 +1,14 @@
 [package]
 authors = ["The Rust Project Developers"]
-description = "Numeric traits for generic mathematics"
+description = "(Namada fork) Numeric traits for generic mathematics"
 documentation = "https://docs.rs/num-traits"
 homepage = "https://github.com/rust-num/num-traits"
 keywords = ["mathematics", "numerics"]
 categories = ["algorithms", "science", "no-std"]
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/rust-num/num-traits"
-name = "num-traits"
-version = "0.2.19"
+repository = "https://github.com/anoma/num-traits"
+name = "nam-num-traits"
+version = "0.2.20-nam.0"
 readme = "README.md"
 build = "build.rs"
 exclude = ["/ci/*", "/.github/*"]
